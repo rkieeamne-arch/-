@@ -1,0 +1,6 @@
+{
+  "name": "عالم الأنمي - تحميل التطبيق",
+  "description": "صفحة التحميل الرسمية لتطبيق عالم الأنمي لمتابعة أحدث مسلسلات وأفلام الأنمي بدون إعلانات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

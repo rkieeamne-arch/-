@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://ais-pre-tc3dydvbufjqcfbvsfumvm-287014606431.europe-west2.run.app/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ais-pre-tc3dydvbufjqcfbvsfumvm-287014606431.europe-west2.run.app/og-image.jpg</image:loc>
+      <image:title>عالم الأنمي - Anime World</image:title>
+      <image:caption>شعار وصورة تطبيق عالم الأنمي لأجهزة أندرويد</image:caption>
+    </image:image>
+  </url>
+</urlset>
